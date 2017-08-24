@@ -12,7 +12,7 @@ This repository is intended to explore vim step by step.
  
 Here we learn how we can write a simple .vimrc file.The .vimrc file is the vim configuration file for the user. It is loaded everytime the user launches vim. vimrc file has its own syntax. You can explore the various vimrc statements by looking at the .vimrc file here.
 
-This vimrc also demonstrate the user to configure Vundle. Vundle is the popular package manager for vim. It manages and configures the vim packages that are available and that we need to use.
+This vimrc also demonstrate the user to configure [Vundle](https://github.com/VundleVim/Vundle.vim). Vundle is the popular package manager for vim. It manages and configures the vim packages that are available and that we need to use.
 
 # Use this .vimrc
 
@@ -21,8 +21,8 @@ If you need to use this vimrc for your configuration. Please use the following p
     1. Copy the .vimrc file in this repository to your ~/.vimrc. You need to create it if it doesn't exist
     2. Logout , then Login and launch vim to see the .vimrc in action
     3. To enable vundle
-        * git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-        * issue  `:PluginInstall` to install the listed plugins in the .vimrc file
+    * git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+    * issue  `:PluginInstall` to install the listed plugins in the .vimrc file
     4. Launch NERDTREE as `:NERDTree` 
 
 
