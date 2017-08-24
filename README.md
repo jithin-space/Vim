@@ -7,6 +7,14 @@ Vim is ofter called a `"Programmers Editor"` and so useful for programming that 
 
 This repository is intended to explore vim step by step.
 # Basics
+## 1. Installation
+
+Installing and using vim is simple . In Debian Based Linux distributions, you can install vim by
+    `apt-get install vim`
+
+It will install vim and you can launch vim from your terminal using `vim` command
+
+
 
 # Environment Setup - ~/.vimrc 
  
