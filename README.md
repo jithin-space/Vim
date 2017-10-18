@@ -34,4 +34,17 @@ If you need to use this vimrc for your configuration. Please use the following p
     4. Launch NERDTREE as `:NERDTree` 
 
 
+## 2. Navigation
+ * h left
+ * j down
+ * k up
+ * l right
+
+## 3. Command Mode Keys
+  * x delete the character at current position
+  * a append the character at current position
+  * dw delete the current word
+  * d$ delete to end from the current cursor position
+  * de deltet toward the end of current word
+  * dd delete the whole line
 
